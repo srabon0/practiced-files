@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ background-color:#666; margin:0px;}
+
+.main_layout{ width:900px; height:900px;  background-color:#FFF; margin:0 auto; }
+
+.header{ width:900px; height:150px; background-color:#9FAF2B; float:left; }
+.logo{ width:350px; height:120px; background-color:#9FAF2B; float:left; margin:0px;}
+.logo img{ width:50px; height:60px; margin:10px 0px 0px 25px;}
+.logo h1{ color: #fff; font-size: 35px; margin: -60px 0 0 82px; text-transform: uppercase;}
+.logo p{ color: #fff; font-size: 12px; margin: 0px 0 0 82px; text-transform: uppercase;}
+
+.contact{ width:550px; height:120px; background-color:#9FAF2B; float:right; margin:0px;}
+.contact p{ color: #fff; font-size: 14px; margin: 10px 10px 0px 0px; text-transform: uppercase; float:right;}
+
+.menu{ width:750px; height:30px; float:right; margin:0px 25px 0px 0px;}
+.menu ul{margin:0px; padding:0px;}
+.menu li{display:inline;}
+.menu a{width:105px; height:28px; background-color:#466B1B; margin:0px; float:left; color:#D8D6C7; text-align:center; text-decoration:none; line-height:30px; border:1px solid #9FAF2B; border-radius:90px 90px 0px 0px; font-weight:bolder;}
+.menu a:hover{background-color:#D8D6C7; color:#466B1B; 
+	text-align:center; text-decoration:none; line-height:30px; border:1px solid #9FAF2B;}
+
+.main_contant{ width:900px; height:400px; margin:0px; float:left; background-color:#6CC;}
+.contant_img{ width:450px; height:400px; margin:0px; float:left; background-color:#FAFDF6;}
+.contant_img img{ width:450px; height:327px; margin:73px 0px 0px 0px; float:left;}
+
+.contant_text{ width:450px; height:400px; margin:0px; float:right; background-color:#BBA579;}
+
+.contant_text_top{ width:450px; height:200px; margin:0px; float:left; background-color:#FFF;}
+.title{ color:#9FAF2B; font-size:18px;}
+.contant_text_top p{ color: #000; font-size: 16px; margin:0px; text-align:justify; padding:10px;}
+.contant_text_top span{ width:100px; height:30px; background-color:#9FAF2B;  float:right; margin-right:50px; border-radius:5px;}
+.contant_text_top span a{ width:100px; height:30px; color:#FFF; text-decoration:none; line-height:30px; padding:5px;}
+
+.contant_text_bottom{ width:450px; height:200px; margin:0px; float:left; background-color:#FFF;}
+.contant_text_bottom p{ color: #000; font-size: 16px; margin:0px; text-align:justify; padding:10px;}
+
+
+
+.company_quick{ width:900px; height:300px; margin:0px; float:left; background-color:#C6C8C3;}
+
+.company{ width:500px; height:300px; margin:0px; background-color:#C6C8C3; float:left;}
+.company_spotlight{ width:450px; height:250px; margin:25px; background-color:#ECECEA; float:left; border-radius:20px; padding:0px 5px 0px 15px; text-align:justify; }
+.company_spotlight h3{ color: #2B1D02; font-size: 20px;  }
+.company_scroll{ width:430px; height:180px; overflow: scroll; margin-top:-20px;}
+.company_scroll p{}
+
+.quick{ width:400px; height:300px; margin:0px; background-color:#C6C8C3; float:right;}
+.quick h3{  color: #9FAF2B; font-size: 18px; text-align:center; background-color:#F0EFEB; padding:5px; margin:20px; border-radius:10px;}
+.quick ul{ margin-left:30px; }
+.quick li{}
+.quick a{ color:#030;}
+
+.footer{ width:900px; height:50px; background-color:#7C7F78; margin:0px; float:left;}
+.footer p{ margin-left:50px;}
+.footer a{ color:#030; padding-left:5px;}

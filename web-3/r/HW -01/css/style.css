@@ -1,0 +1,23 @@
+body{ background-color:#65667E; margin:0px;}
+
+.main_layout{ width:900px; height:1100px; margin:0 auto; background-color:#fff; border:1px solid #EA1111;}
+
+.header{ width:900px; height:50px; margin:0px; background-color:#D4EEED; float:left;}
+.logo{ width:250px; height:50px; margin:0px; background-color:#D4EEED; float:left;}
+.logo h1{ color:#2B83F3; margin:3px 5px 0px 40px;}
+.logo span{ color:#043283;}
+.menu_area{ width:650px; height:40px; margin:0px; background-color:#D4EEED; float:right;}
+.menu{ width:650px; height:40px; margin:0px;  float:right;}
+.menu ul{ margin:0px 15px 0px 5px; padding:0px; float:right;}
+.menu li{ display:inline;}
+.menu a{ width:100px; height:40px; background-color:#D4EEED; float:left; color:#043283; text-decoration:none; line-height:40px; text-indent:15px; font-weight:bold;}
+.menu a:hover{ width:100px; height:40px; background-color:#EFF7F9; float:left; color:#7AC810; text-decoration:none; line-height:40px; text-indent:15px; border-radius:5px;}
+
+.slider{ width:900px; height:200px; margin:0px; background-color:#135EB1; float:left;}
+.slider_img{width:900px; height:100px; margin:0px; float:left; 	z-index: -1;}
+.mobile{width:200px; height:180px; margin:-70px 10px 0px 0px; float:right;}
+
+
+.content_top{ width:900px; height:250px; margin:0px; background-color:#E9F5F5; float:left;}
+.content_bottom{ width:900px; height:250px; margin:0px; background-color:#8390CA; float:left;}
+.footer{ width:900px; height:250px; margin:0px; background-color:#135BAF; float:left;}

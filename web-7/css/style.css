@@ -1,0 +1,261 @@
+body{
+	background-image:url(../image/forest.jpg);
+	background-attachment:fixed;
+	margin:0px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	
+}
+.mainlay{
+	height:1180px;
+	width:960px;
+	background-color:none;
+	margin:0px auto;
+	border: 2px solid #ff0000;
+}
+.logocon{
+	background-color:rgba(255,255,255,.5);
+	width:960px;
+	height:170px;
+}
+.logo{
+	height:150px;
+	width:250px;
+	float:left;
+	
+}
+.logo h1{
+	font-size:30px;
+	text-align: center;
+	color:white;
+	text-shadow:3px 3px blue;
+}
+
+
+.contact{
+	height:150px;
+	width:250px;
+	float:right;
+	
+}
+.contact h1{
+	font-size:30px;
+	text-align: center;
+	color:white;
+	text-shadow:3px 3px blue;
+}
+.contact h4{
+	font-size:15px;
+	text-align: center;
+	color:white;
+	font-weight:bold;
+	text-shadow:.5px .5px blue;
+}
+
+.contact p{
+	font-size:15px;
+	text-align: center;
+	color:white;
+	margin:10px;
+	font-weight:bold;
+	text-shadow:.5px .5px blue;
+}
+
+
+
+.menubar{
+	width:960px;
+	height:50px;
+	background-color:none;
+	float:left;
+	
+}
+.menubar ul{
+	margin:0;
+	padding:0;
+}
+.menubar li{
+	display:inline;
+}
+.menubar a{
+	width:146px;
+	height:36px;
+	background-color:#e3e3e3;
+	text-align:center;
+	text-transform:uppercase;
+	text-decoration:none;
+	border:2px solid #AEB6BF;
+	padding:5px;
+	line-height:36px;
+	float:left;
+	font-weight:bold;
+	color:#ff1679;
+	font-size:20px;
+	border-radius:90px 90px 90px 90px;
+}
+.menubar a:hover{
+	background-color:#ff0000;
+	color:#ffd800;
+	border:2px solid #ffbaf0;
+}
+.ImageText{
+	height:600px;
+	width:950px;
+	background-color:rgba(255,255,255,.5);;
+	margin:5px;
+	float:left;
+	
+}
+.Image{
+	height:590px;
+	width:465px;
+	background-color:background-color:rgba(255,255,255,.5);
+	margin:5px 5px;
+	float:left;
+	
+}
+.Image img{
+	height:590px;
+	width:465px;
+	
+	
+}
+.text{
+	height:590px;
+	width:465px;
+	background-color:background-color:rgba(255,255,255,.5);;
+	margin:5px 5px;
+	float:left;
+	
+}
+.title{
+	font-size:20px;
+	color:#2E4053;
+}
+.TOP{
+	height:295px;
+	width:465px;
+	background-color:background-color:rgba(255,255,255,.5);;
+}
+.TOP p{
+	font-size:18px;
+	color:darkblue;
+	margin:0px;
+	padding:10px;
+	text-align:justify;
+}
+.TOP span{ 
+
+	width:120px; 
+	height:40px; 
+	background-color:#5DADE2;  
+	float:right; 
+	margin-right:50px; 
+	border-radius:5px;
+	}
+.TOP span a{ 
+           width:120px; 
+		   height:40px; 
+		   color:#FFF;		   
+		   text-decoration:none; 
+		   line-height:40px; 
+		   padding:5px;}
+
+.BOTTOM{
+	height:295px;
+	width:465px;
+	background-color:background-color:rgba(255,255,255,.5);;
+}
+.BOTTOM p{
+	font-size:18px;
+	color:darkblue;
+	margin:0px;
+	padding:10px;
+	text-align:justify;
+}
+
+.company{ 
+		width:950px;
+          height:300px;
+		  margin:0px; 
+		  float:left; 
+		  background-color:rgba(255,255,255,.5);
+		  padding:5px 5px;
+		  }
+.latest{
+	height:18px;
+	width:500px;
+	background-color:navy;
+	float:left;
+	border:1px solid white;
+	border-radius:5px;
+}
+.latest span {
+	color:white;
+	text-transform:uppercase;
+}
+.events	{
+	width:500px;
+	height:250px;
+	background-color:gray;
+	float:left;
+	border-radius:20px;
+}
+.events	h3{
+	font-size:30px;
+	margin:25px;
+	color:black;
+	float:left;
+}
+
+   
+.scroll {
+	margin:55px;
+	height:140px;
+	width:400px;
+	background-color:white;
+	overflow: scroll;
+	border-radius:15px;
+}
+.scroll p {
+	margin:5px;
+	font-size:15px;
+	
+	
+	
+}
+.menucom{
+	width:440px;
+	height:250px;
+	
+	float:left;
+	border-radius:20px;
+	margin:0px 5px;
+}
+.menucom h3{
+	width:400px;
+	height:35px;
+	background-color:green;
+	text-align:center;
+	font-size:25px;
+	color:black;
+	margin: 5px auto;
+	border-radius:10px;
+}
+.footer{
+		width:960px;
+	    height:40px;
+	    background-color:blue;
+		float:left;
+		margin:0px;}
+		
+
+.footer p{
+		text-align:center;
+		color:white;}	
+
+.footer a{
+		
+		color:white;}	
+		

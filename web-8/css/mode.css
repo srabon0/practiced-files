@@ -1,0 +1,50 @@
+body{
+	background-image:url(../image/abc.jpg);
+	background-attachment:fixed;
+	margin:0px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	
+	
+}
+.main_layout{
+	background:rgba(255,255,255,.5);
+	width:920px;
+	height:1000px;
+	margin:0px auto;
+}
+.main_header{
+	width:920px;
+	height:50px;
+	background-color:#212fbf;
+	float:left;
+	
+}
+.main_header ul{
+	margin:0;
+	padding:0;
+}
+.main_header li{
+	display:inline;
+}
+.main_header a{
+	width:101px;
+	height:36px;
+	background-color:#e3e3e3;
+	text-align:center;
+	text-transform:uppercase;
+	text-decoration:none;
+	border:2px solid #AEB6BF;
+	padding:5px;
+	line-height:36px;
+	float:left;
+	font-weight:bold;
+	color:#ff1679;
+	font-size:20px;
+}
+.main_header a:hover{
+	background-color:#ff0000;
+	color:#ffd800;
+	border:2px solid #ffbaf0;
+}
